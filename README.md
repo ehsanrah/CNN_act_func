@@ -14,3 +14,4 @@ filter size with a 30% dropout rate.
 • Model is trained using 100 epochs.
 
 The accuracy of training and testing with different activation functions on output and hidden layers are compared.
+Also the number of active neurons after training is analysed.
